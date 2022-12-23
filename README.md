@@ -1,6 +1,6 @@
-<h2>Hi, I'm Piero<img src="https://media3.giphy.com/media/4T3R1JxYF1syldJJHb/giphy.gif" width="60"></h2>
+<h2>Hola, Soy Piero<img src="https://media3.giphy.com/media/4T3R1JxYF1syldJJHb/giphy.gif" width="60"></h2>
 
-<p><em>Systems Engineering Student at <a href="https://www.upn.edu.pe/">Universidad Privada del Norte</a>🎓</br>Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>Graduado de la carrera de Ingenieria de Sistemas Computacionales en la <a href="https://www.upn.edu.pe/">Universidad Privada del Norte</a>🎓</br>Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Twitter: PieroLavy05](https://img.shields.io/twitter/follow/PieroLavy05?style=social)](https://twitter.com/PieroLavy05)
